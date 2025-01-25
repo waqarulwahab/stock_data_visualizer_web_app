@@ -35,7 +35,7 @@ This **Streamlit** application allows users to upload and interactively explore 
 ---
 
 ## Demo
-Try the app live at: [CSV Viewer App](https://stockdata_visualizer_web_app.streamlit.app)
+Try the app live at: [CSV Viewer App](https://stockdatavisualizerwebapp.streamlit.app)
 
 ---
 
